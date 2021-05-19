@@ -1,5 +1,4 @@
-# aunty-donna-stickers
-aunty donna stickers for whatsapp
+# Aunty Donna WhatsApp Stickers
 
 
 It's specifically for WhatsApp. If you do use WhatsApp and you want the pack you'd need the https://stickermakerapp.xyz app
@@ -8,3 +7,6 @@ apps but that's the one I used and confirm works) to be able to add it since I d
 online in a bit for those that want it, but I don't know how you'd go about downloading it on Apple devices since I haven't
 used one in years and I don't know if they still have the option to download files from the internet. Once both the app and
 the stickerpack file are downloaded it should just open the file with the app automatically and you can just add it to WhatsApp from there.
+
+If anyone asks and really wants the pngs outside of sticker form to use for other reasons I guess I could provide those too I just
+couldn't be assed to upload them as separate images originally.
